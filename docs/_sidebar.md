@@ -1,0 +1,5 @@
+- Quick Start
+  - [README](README.md)
+- SoMate
+  - [Privacy Policy](SoMate/privacy.md)
+  - [Terms of Use](SoMate/terms.md)

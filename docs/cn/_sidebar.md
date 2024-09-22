@@ -1,0 +1,5 @@
+- 快速入门
+  - [README](README.md)
+- SoMate
+  - [隐私协议](cn/SoMate/privacy.md)
+  - [用户协议](cn/SoMate/terms.md)

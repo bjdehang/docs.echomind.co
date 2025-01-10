@@ -3,3 +3,4 @@
 - SoMate
   - [Privacy Policy](SoMate/privacy.md)
   - [Terms of Use](SoMate/terms.md)
+  - [Tips](SoMate/tips.md)
